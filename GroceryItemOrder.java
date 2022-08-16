@@ -1,7 +1,6 @@
 // This class stores information about a single grocery item being ordered.
 // Nelli Antonyan
 // BIT 142 SPRING 2022
-// A 4.1 revision 
 // 06.03.2022
 public class GroceryItemOrder {
     private String name; // assigned variables to correct data type
